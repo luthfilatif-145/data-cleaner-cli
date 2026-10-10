@@ -1,0 +1,16 @@
+[
+  {
+    "id_user": 1,
+    "nama": "   Budi Santoso   ",
+    "email": "budi@example.com",
+    "nik": "6171012345678901",
+    "umur": 25
+  },
+  {
+    "id_user": 2,
+    "nama": "Siti",
+    "email": "siti-email-salah",
+    "nik": "12345ABC",
+    "umur": -5
+  }
+]
